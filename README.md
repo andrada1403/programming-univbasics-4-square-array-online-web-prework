@@ -7,7 +7,7 @@
 ## Introduction
 
 In this lab we will be building a method, `square_array`, that
-[squares](https://en.wikipedia.org/wiki/Square_(algebra)) each element in an
+[squares](https://en.wikipedia.org/`wiki/`Square_(algebra)) each element in an
 array of numbers and returns a new array of these squared numbers.
 
 **Hint:** There is more than one way to square numbers! Google Ruby's exponent
